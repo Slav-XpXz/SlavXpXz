@@ -14,7 +14,7 @@ Zyr is a programming language created in C and makefile and I am very ambitious 
 
 
 ## [Gorilla Tag Mods](https://github.com/Slav-XpXz?tab=repositories)
-You can find them Here!
+You can find them on the link above!
 
 
 -----
