@@ -12,6 +12,9 @@ Currently this is my main focus!
 
 Zyr is a programming language created in C and makefile and I am very ambitious to push this project to a successful limit!
 
+## [Paperline](https://github.com/Slav-XpXz/Paperline)
+My second main focus!
+
 
 ## [Gorilla Tag Mods](https://github.com/Slav-XpXz?tab=repositories)
 You can find them on the link above!
