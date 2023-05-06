@@ -1,16 +1,16 @@
 # Welcome
 
-I am Slav a 18 year old software engineer persuring a double major in Phyiscs and Computer Science!
+I am Slav a 19 year old low level engineer persuring a double major in Phyiscs and Computer Science!
 I created many things but currently these are the projects I am working on!
 
 # Projects
 
 
-## [Zyr](https://github.com/Slav-XpXz/Zyr)
+## Bikini Bottom OS
 
 Currently this is my main focus!
 
-Zyr is a programming language created in C and makefile and I am very ambitious to push this project to a successful limit!
+Binkini Bottom OS created in Assembly and C and I am very ambitious to push this project to a successful limit!
 
 ## [Paperline](https://github.com/Slav-XpXz/Paperline)
 My second main focus!
