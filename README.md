@@ -1,28 +1,6 @@
-# Welcome
-
-I am Slav a 19 year old low level engineer persuring a double major in Phyiscs and Computer Science!
-I created many things but currently these are the projects I am working on!
-
-# Projects
+#Welcome
+Hi there, I am slav a backend developer and software engineer!
 
 
-## Bikini Bottom OS
-
-Currently this is my main focus!
-
-Binkini Bottom OS created in Assembly and C and I am very ambitious to push this project to a successful limit!
-
-## [Paperline](https://github.com/Slav-XpXz/Paperline)
-My second main focus!
-
-
-## [Gorilla Tag Mods](https://github.com/Slav-XpXz?tab=repositories)
-You can find them on the link above!
-
-
------
-
-# Support
-
-### [Patreon](https://www.patreon.com/slav_XpXz)
-mostly for Zyr but also for other things!
+#My languages
+![C](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw2QYq6hHOmvY9FIgtUvAWLN&ust=1704154382260000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjhxfbzuoMDFQAAAAAdAAAAABAD)
