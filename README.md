@@ -7,4 +7,4 @@ I program in C, CPP, JS, TS, and Python.
 
 
 # Contact
-If you would like to contact me contact me on my discord slav_xpxz.
+If you would like to contact me contact me on my discord cgt.slav.
